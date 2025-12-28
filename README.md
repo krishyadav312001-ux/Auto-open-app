@@ -55,3 +55,22 @@ Create a GUI interface using Tkinter or PyQt
 Improve error handling and user feedback
 Add background execution mode for AI assistant integration
 Log opened applications for analytics and debugging
+
+
+🔮 Future Improvements
+
+Add voice command support using Speech Recognition
+
+Support for Linux and macOS platforms
+
+Implement fuzzy matching (e.g., “open chrom” → Chrome)
+
+Add app categories (Office, Browsers, System tools, etc.)
+
+Create a GUI interface using Tkinter or PyQt
+
+Improve error handling and user feedback
+
+Add background execution mode for AI assistant integration
+
+Log opened applications for analytics and debugging
